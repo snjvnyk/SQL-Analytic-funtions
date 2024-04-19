@@ -8,4 +8,4 @@ This project focuses on practicing SQL queries with the census_bureau_usa.popula
 - Identify age groups with the highest population for both genders.
 - Extract demographic insights, such as the age group with the highest male and female populations within a ZIP code.
 
-This project is solely for practice purposes, aiming to practice rank(), partitioning and other analytical functions in SQL, as well as CTEs and subqueries, in BigQuery.
+This project is solely for practice purposes, aiming to practice RANK(), PARTITION BY other analytical functions in SQL, as well as CTEs and subqueries, in BigQuery.
